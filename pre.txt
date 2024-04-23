@@ -1,0 +1,11 @@
+* sort the data 
+
+- comparable
+    - single sorting sequence 
+        - based on only attribute at a time
+    - compareTo method we should override
+
+- comparator
+    - muiti sorting sequence
+        - muitiple attribute based at a time
+    - compare
